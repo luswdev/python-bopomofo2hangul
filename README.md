@@ -1,5 +1,8 @@
 # python-bopomofo2hangul
 
+[![PyPI version](https://img.shields.io/pypi/v/pybopomofo2hangul.svg)](https://pypi.org/project/pybopomofo2hangul/)
+[![Python Version](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-brightgreen.svg)](https://pypi.org/project/pybopomofo2hangul/)
+
 Translate Ｍandarin to Hangul (한글) from bopomofo (ㄅㄆㄇㄈ).
 
 Refer to **중국어의 한글 표기** from National Institute of the Korean Language.
