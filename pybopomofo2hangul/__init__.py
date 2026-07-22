@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from .pybopomofo2hangul import bopomofo_to_hangul
+from .bopomofo2hangul import bopomofo_to_hangul
 
 __title__ = 'pybopomofo2hangul'
 __version__ = '1.0.3'
