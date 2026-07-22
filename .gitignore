@@ -10,3 +10,4 @@ build
 # runtimes
 .*env/
 **/__pycache__/
+.pytest_cache/
