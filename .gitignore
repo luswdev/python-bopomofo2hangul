@@ -1,0 +1,8 @@
+# editors
+.vs/
+.vscode/
+
+# Packages
+*.egg-info
+dist
+build
