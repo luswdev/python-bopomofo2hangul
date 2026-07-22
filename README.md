@@ -26,6 +26,12 @@ outStr = bopomofo_to_hangul(fromStr)
 print(outStr)   # will output like: "니하오，스제！"
 ```
 
+## Live Demo
+
+Here is a simple demo for this package (telegram bot): [@zhtw2ko_bot](https://t.me/zhtw2ko_bot)
+
+➡️ [Source Code](https://github.com/luswdev/chinese2hangul)
+
 ## Dependencies 
 
 - [python-pinyin](https://github.com/mozillazg/python-pinyin)
