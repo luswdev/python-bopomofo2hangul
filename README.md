@@ -1,5 +1,7 @@
 # python-bopomofo2hangul
 
+[![CI Status](https://github.com/luswdev/python-bopomofo2hangul/actions/workflows/pytest.yml/badge.svg)](https://github.com/luswdev/python-bopomofo2hangul/actions/workflows/pytest.yml)
+[![CI Status](https://github.com/luswdev/python-bopomofo2hangul/actions/workflows/publish.yml/badge.svg)](https://github.com/luswdev/python-bopomofo2hangul/actions/workflows/publish.yml)
 [![PyPI version](https://img.shields.io/pypi/v/pybopomofo2hangul.svg)](https://pypi.org/project/pybopomofo2hangul/)
 [![Python Version](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-brightgreen.svg)](https://pypi.org/project/pybopomofo2hangul/)
 
