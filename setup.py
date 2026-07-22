@@ -1,12 +1,6 @@
 import os
 import re
 from setuptools import find_packages, setup
-setuptools_kwargs = {
-    'install_requires': [
-    "requirements.txt"
-    ],
-    'zip_safe': False,
-}
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
@@ -33,6 +27,9 @@ setup(
     license=meta_d['__license__'],
     url='https://github.com/luswdev/python-bopomofo2hangul',
     keywords=['bopomofo', 'hangul'],
+    install_requires=[
+        "pypinyin",
+    ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
@@ -58,5 +55,4 @@ setup(
         'Topic :: Text Processing',
     ],
     python_requires='>=2.6, !=3.0.*, !=3.1.*, !=3.2.*, <4',
-    **setuptools_kwargs
 )
