@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from pypinyin import pinyin, Style
 
 # zhuyin to hangul map by: https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E6%96%87%E7%9A%84%E9%9F%A9%E6%96%87%E8%BD%AC%E5%86%99
