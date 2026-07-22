@@ -16,3 +16,8 @@ keywords = ["bopomofo", "hangul"]
 dependencies = [
     "pypinyin",
 ]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+]
